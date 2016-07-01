@@ -1,0 +1,6 @@
+framework module Pods_FSquare {
+  umbrella header "Pods-FSquare-umbrella.h"
+
+  export *
+  module * { export * }
+}
